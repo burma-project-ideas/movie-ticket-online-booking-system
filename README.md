@@ -14,6 +14,21 @@ Movie တစ်ခုကို ရွေးချယ်ပါမယ် ရွေ
 4. နောက် Page သည် ခုံရွေးရမယ့် page ဖြစ်ပါသည်။ ကိုယ်လိုချင်သောခုံနံပါတ်များအား ရွေးချယ်ပြီးသောအခါ ရွေးချယ်ထားသောခုံများ အားလုံးကို ပေါင်းပေးရပါမည်။ ရွေးချယ်ပြီးနောက် Proceed ကိုနှိပ်လိုက်ပါက ပထမဆုံး Page မှ နောက်ဆုံး Page ထိ‌ရွေးချယ်ခဲ့သော Data များအားလုံးကို ခုံတစ်ခုစီအလိုက် voucher များထုတ်ပေးရပါမည်။
 
 ဤတွင်တစ်ခန်းရပ်ပါမည်။
+
+<table>
+ <thead>
+  <tr>
+   <th colspan="3">Contributors</th>
+  </tr>
+ </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://github.com/sannlynnhtun-coding.png" width="60px;"/></td>
+            <td><img src="https://github.com/mgchit-coding.png" width="60px;"/></td>
+            <td><img src="https://github.com/dabria2004.png" width="60px;"/></td>
+        </tr>
+    </tbody>
+</table>
  
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking/main/MovieTicketOnlineBookingFlow.jpg)
 
