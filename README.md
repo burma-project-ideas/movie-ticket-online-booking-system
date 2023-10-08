@@ -23,9 +23,9 @@ Movie တစ်ခုကို ရွေးချယ်ပါမယ် ရွေ
  </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/sannlynnhtun-coding.png" width="60px;"/></td>
-            <td><img src="https://github.com/mgchit-coding.png" width="60px;"/></td>
-            <td><img src="https://github.com/dabria2004.png" width="60px;"/></td>
+            <td><a href="https://github.com/sannlynnhtun-coding"><img src="https://github.com/sannlynnhtun-coding.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/mgchit-coding"><img src="https://github.com/mgchit-coding.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/dabria2004"><img src="https://github.com/dabria2004.png" width="60px;"/></a></td>
         </tr>
     </tbody>
 </table>
