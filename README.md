@@ -30,6 +30,6 @@ Movie တစ်ခုကို ရွေးချယ်ပါမယ် ရွေ
     </tbody>
 </table>
  
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking/main/MovieTicketOnlineBookingFlow.jpg)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System/main/MovieTicketOnlineBookingSystemFlow.jpg)
 
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking/main/MovieTicketOnlineBookingMindMap.png)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System/main/MovieTicketOnlineBookingSystemMindMap.png)
