@@ -35,3 +35,4 @@ Movie တစ်ခုကို ရွေးချယ်ပါမယ် ရွေ
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System/main/MovieTicketOnlineBookingSystemMindMap.png)
 - [THa Soe (Flutter + riverpod)](https://github.com/THaSoe/movie_app)
 - [Arkar Myo Min (JavaScript)](https://github.com/akmm-dev/cinema-ticket-online-booking)
+- [Lin Thit (React.js)](https://github.com/LinThit27/MovieTicketProject)
