@@ -30,10 +30,13 @@ Movie တစ်ခုကို ရွေးချယ်ပါမယ် ရွေ
     </tbody>
 </table>
  
+### Participants
+1. [THa Soe (Flutter + riverpod)](https://github.com/THaSoe/movie_app)
+2. [Arkar Myo Min (JavaScript)](https://github.com/akmm-dev/cinema-ticket-online-booking)
+3. [Lin Thit (React.js)](https://github.com/LinThit27/MovieTicketProject)
+4. [Thurein Zaw (React.js)](https://github.com/mhkhizil/ticketingSystem)
+
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System/main/MovieTicketOnlineBookingSystemFlow.jpg)
 
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System/main/MovieTicketOnlineBookingSystemMindMap.png)
-- [THa Soe (Flutter + riverpod)](https://github.com/THaSoe/movie_app)
-- [Arkar Myo Min (JavaScript)](https://github.com/akmm-dev/cinema-ticket-online-booking)
-- [Lin Thit (React.js)](https://github.com/LinThit27/MovieTicketProject)
-- [Thurein Zaw (React.js)](https://github.com/mhkhizil/ticketingSystem)
+
